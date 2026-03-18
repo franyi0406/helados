@@ -226,7 +226,7 @@ Tu navegador no soporta el video.
 <div class="card"><img src="Imagenes De Gomi Locas/Manguitos.jpeg"><h3>Manguitos</h3><p class="price">$20MX</p></div>
 <div class="card"><img src="Imagenes De Gomi Locas/Aros Enchilados.jpeg"><h3>Aros enchilados</h3><p class="price">$25MX</p></div>
 <div class="card"><img src="Imagenes De Gomi Locas/Lenguas Enchiladas.jpeg"><h3>Lenguas enchiladas</h3><p class="price">$25MX</p></div>
-<div class="card"><img src="Imagenes De Gomi Locas/Sandias Enchiladas.jpeg"><h3>Sandias enchiladas</h3><p class="price">$25MX</p></div>
+<div class="card"><img src="Sandias Enchiladas.jpeg"><h3>Sandias enchiladas</h3><p class="price">$25MX</p></div>
 
 </div>
 
